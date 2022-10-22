@@ -671,6 +671,7 @@ html .group-middle > * {
 
 .list-inline > li {
 	display: inline-block;
+	margin: 0 5px;
 }
 
 html .list-inline-md {
